@@ -56,8 +56,11 @@ body {
 
 }
 
+
+
 .mission {
     padding-bottom: 50px;
+    display:flex;
 
 }
 .blackbox { 
@@ -79,7 +82,35 @@ body {
     
    }
 
-.teaofthemonth {
-
+#teaofthemonth {
+    height: 700px;
     width: 1000px;
+    margin: auto;
+    padding-top: 70px;
+
+
 }
+
+.totm {
+    padding: 5px;
+    
+
+    
+}
+
+.monthlyteas {
+    padding: 5px;
+    
+    
+    
+}
+
+.monthlyteas img {
+
+    height: 200px;
+    margin: 10px;
+    display: block;
+}
+
+
+
