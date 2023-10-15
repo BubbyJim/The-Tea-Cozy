@@ -101,10 +101,11 @@ body {
 
 .monthlyteas {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
     padding: 5px;
     flex-wrap: wrap;
+    max-width: 1000px;
+    align-items: center;
+    justify-content: center;
     
     
     
