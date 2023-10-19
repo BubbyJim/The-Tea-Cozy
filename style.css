@@ -123,15 +123,34 @@ body {
 
 #locationsdiv {
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg);
-    max-width: 1200px;
-    height: 500px;
+    width: 1200px;
+    height: 575px;
     background-repeat: no-repeat;
+    background-position: center;
+
+    
+    
 }
+
+.banner {
+
+margin: auto;
+
+}
+
+
+
+
 
 .locations {
     background-color: black;
-    width: 300px;
-    height: auto;
+    width: 300px; 
+    margin: 15px 40px auto auto;
+    justify-content: center;
+    display: inline-block;
+
+    
+    
 
 }
 
