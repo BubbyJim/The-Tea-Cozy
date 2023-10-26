@@ -171,10 +171,14 @@ margin-top: 25px;
 .contact {
 
     height:200px;
-    color:seashell;
+  
     
 }
 
+a {
+    color: seashell;
+
+}
 
 a:hover {
     color:blue;
@@ -183,4 +187,4 @@ a:hover {
 .footer {
     text-align: left;
     padding-left: 20px;
-}}
+}
